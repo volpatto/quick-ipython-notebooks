@@ -8,7 +8,7 @@ Repo of some personal notes about things I face myself on the way out my Scienti
 
 ## Anyone can use it?
 
-Well, if there is something you get interested, go ahead. Propably you could find better stuff around.
+Well, if there is something you get yourself interested, go ahead. Probably you could find better stuff around.
 
 Just in case, I appended a MIT license, but don't care about it, just formality.
 
