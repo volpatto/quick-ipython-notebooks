@@ -15,3 +15,5 @@ Just in case, I appended a MIT license, but don't care about it, just formality.
 ## How to use it?
 
 The notes will be separated in directories. Instructions about how to configure and what packages are required to run within the ipynb are intended to be provided in each dir case.
+
+By the time, I prefer to use [Conda](https://conda.io/docs/) environments. It's a quite general and good environment manager. And it is cross-platform.
