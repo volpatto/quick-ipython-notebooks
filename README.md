@@ -6,6 +6,16 @@ The description below is more like a reminder note to myself.
 
 Repo of some personal notes about things I face myself on the way out my Scientific and Python journeys. Mainly interesting things related to some personal research, others for pure fun. Never related to my job (just saying).
 
+By this time, I provide notebooks in the following subjects:
+
+* Finite Elements in Python:
+  - FEniCS Examples:
+    - 1D Poisson Problem
+    - 1D Advection-Diffusion scalar problem:
+      - Galerkin formulation
+      - SUPG
+      - GLS
+
 ## Anyone can use it?
 
 Well, if there is something you get yourself interested, go ahead. Probably you could find better stuff around.
