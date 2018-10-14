@@ -15,7 +15,7 @@ By this time, I provide notebooks in the following subjects:
       - Galerkin formulation
       - SUPG
       - GLS
-    - 1D Reaction-Diffusion scalar problem
+    - 1D Reaction-Diffusion scalar problem:
       - Classical Galerkin approximation
       - GGLS stabilization
 
