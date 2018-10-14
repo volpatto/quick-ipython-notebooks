@@ -9,3 +9,6 @@ Here a provide some [FEniCS](https://fenicsproject.org/) introductory example th
     - Classical Galerkin approximation
     - SUPG stabilization
     - GLS stabilization
+* 1D Reaction-Diffusion Problem
+    - Classical Galerkin approximation
+    - GGLS stabilization
